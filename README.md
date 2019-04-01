@@ -2,9 +2,11 @@
 ### start server 
 $ go run main.go
 
+$ curl http://localhost:8080/response
+
 ### set json
 - set json you wanting mock in fixtures
-- file name format  
+- json file rename 'response.json' 
 
 
 ## Setup
